@@ -1,0 +1,19 @@
+{
+  "name": "ks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onecl/ks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onecl/ks/issues"
+  },
+  "homepage": "https://github.com/onecl/ks#readme",
+  "description": ""
+}
